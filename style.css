@@ -1,6 +1,3 @@
-body {
-  width: 100%;
-}
-.header {
-  font-size: 10px;
+.text {
+  text-shadow: #fc0 1px 0 10px;
 }
